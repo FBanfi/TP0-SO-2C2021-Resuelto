@@ -1,0 +1,148 @@
+[INFO] 14:57:51:624 tp0/(5301:5301): Hola! Soy un log
+[INFO] 14:57:51:624 tp0/(5301:5301): El valor de la clave es: 
+[INFO] 15:05:24:545 tp0/(6237:6237): Hola! Soy un log
+[INFO] 15:05:24:545 tp0/(6237:6237): El valor de la clave es: 
+[INFO] 15:06:42:676 tp0/(6427:6427): Hola! Soy un log
+[INFO] 15:06:42:676 tp0/(6427:6427): El valor de la clave es: 
+[INFO] 15:07:32:497 tp0/(6640:6640): Hola! Soy un log
+[INFO] 15:07:32:498 tp0/(6640:6640): El valor de la clave es: 
+[INFO] 15:09:15:742 tp0/(6871:6871): Hola! Soy un log
+[INFO] 15:09:15:743 tp0/(6871:6871): El valor de la clave es: 
+[INFO] 15:11:04:503 tp0/(7190:7190): Hola! Soy un log
+[INFO] 15:11:04:503 tp0/(7190:7190): El valor de la clave es: 
+[INFO] 16:35:26:057 tp0/(9510:9510): Hola! Soy un log
+[INFO] 16:36:36:696 tp0/(9764:9764): Hola! Soy un log
+[INFO] 16:36:36:696 tp0/(9764:9764): Èr·Èr·
+[INFO] 16:37:41:705 tp0/(9764:9764): cd
+[INFO] 16:37:43:236 tp0/(9764:9764): cd
+[INFO] 16:37:46:446 tp0/(9764:9764): cd
+[INFO] 16:37:47:686 tp0/(9764:9764): 
+[INFO] 16:37:48:946 tp0/(9764:9764): 
+[INFO] 16:37:49:546 tp0/(9764:9764): 
+[INFO] 16:37:51:166 tp0/(9764:9764):  
+[INFO] 16:38:05:616 tp0/(9764:9764): 
+[INFO] 16:38:14:796 tp0/(9764:9764): \0
+[INFO] 16:38:16:196 tp0/(9764:9764): 
+[INFO] 16:38:21:396 tp0/(9764:9764): "\0"
+[INFO] 16:38:28:926 tp0/(9764:9764): '\0'
+[INFO] 16:38:31:606 tp0/(9764:9764): exit
+[INFO] 16:41:19:608 tp0/(10314:10314): Hola! Soy un log
+[INFO] 16:41:19:608 tp0/(10314:10314): el valor de la clave es:
+[INFO] 16:41:27:307 tp0/(10314:10314): exit
+[INFO] 16:41:29:756 tp0/(10314:10314): 
+[INFO] 16:41:30:446 tp0/(10314:10314): 
+[INFO] 16:41:31:946 tp0/(10314:10314):  
+[INFO] 16:41:33:966 tp0/(10314:10314): ""
+[INFO] 16:41:35:436 tp0/(10314:10314): 
+[INFO] 16:44:32:338 tp0/(10739:10739): Hola! Soy un log
+[INFO] 16:44:32:338 tp0/(10739:10739): È§q·È§q·
+[INFO] 16:44:40:928 tp0/(10739:10739): fdasd
+[INFO] 16:47:11:030 tp0/(11098:11098): Hola! Soy un log
+[INFO] 16:47:11:031 tp0/(11098:11098): ÈÇo·ÈÇo·
+[INFO] 16:48:57:113 tp0/(11395:11395): Hola! Soy un log
+[INFO] 16:48:57:113 tp0/(11395:11395): "Hola, soy un valor"
+[INFO] 16:49:20:912 tp0/(11395:11395): asda
+[INFO] 16:49:23:602 tp0/(11395:11395): hola
+[INFO] 16:49:42:093 tp0/(11482:11482): Hola! Soy un log
+[INFO] 16:49:42:093 tp0/(11482:11482): Hola, soy un valor
+[INFO] 16:49:47:272 tp0/(11482:11482): Dooooooooooooooooou
+[INFO] 16:49:50:112 tp0/(11482:11482): chau
+[INFO] 17:47:26:263 tp0/(16659:16659): Hola! Soy un log
+[INFO] 17:47:26:263 tp0/(16659:16659): Hola, soy un valor
+[INFO] 17:47:41:409 tp0/(16659:16659): das
+[INFO] 17:47:42:619 tp0/(16659:16659): asda
+[INFO] 17:52:55:648 tp0/(17421:17421): Hola! Soy un log
+[INFO] 17:52:55:648 tp0/(17421:17421): Hola, soy un valor
+[INFO] 17:53:46:922 tp0/(17602:17602): Hola! Soy un log
+[INFO] 17:53:46:922 tp0/(17602:17602): Hola, soy un valor
+[INFO] 17:54:05:939 tp0/(17602:17602): jk
+[INFO] 17:54:08:388 tp0/(17602:17602): k
+[INFO] 17:58:53:732 tp0/(18119:18119): Hola! Soy un log
+[INFO] 17:58:53:733 tp0/(18119:18119): Hola, soy un valor
+[INFO] 17:59:05:339 tp0/(18119:18119): sfdsa
+[INFO] 18:12:48:423 tp0/(19665:19665): Hola! Soy un log
+[INFO] 18:12:48:424 tp0/(19665:19665): Hola, soy un valor
+[INFO] 18:17:04:622 tp0/(20064:20064): Hola! Soy un log
+[INFO] 18:17:04:622 tp0/(20064:20064): Hola, soy un valor
+[INFO] 18:17:16:830 tp0/(20064:20064): dfsaff
+[INFO] 19:20:25:104 tp0/(25610:25610): Hola! Soy un log
+[INFO] 19:20:25:104 tp0/(25610:25610): Hola, soy un valor
+[INFO] 19:20:35:451 tp0/(25610:25610): j
+[INFO] 19:20:36:351 tp0/(25610:25610): j
+[INFO] 20:16:34:667 tp0/(29593:29593): Hola! Soy un log
+[INFO] 20:16:34:667 tp0/(29593:29593): Hola, soy un valor
+[INFO] 20:16:47:174 tp0/(29593:29593): asd
+[INFO] 20:43:57:256 tp0/(32009:32009): Hola! Soy un log
+[INFO] 20:43:57:256 tp0/(32009:32009): Hola, soy un valor
+[INFO] 20:44:01:424 tp0/(32009:32009): asd
+[INFO] 20:44:04:033 tp0/(32009:32009): asd
+[INFO] 17:44:02:233 tp0/(3436:3436): Hola! Soy un log
+[INFO] 17:44:02:254 tp0/(3436:3436): Hola, soy un valor
+[INFO] 17:44:13:835 tp0/(3436:3436): sdfsadf
+[INFO] 17:44:15:265 tp0/(3436:3436): sdfsdf
+[INFO] 17:44:16:175 tp0/(3436:3436): sfdsdf
+[INFO] 14:10:05:042 tp0/(4778:4778): Hola! Soy un log
+[INFO] 14:10:05:065 tp0/(4778:4778): Hola, soy un valor
+[INFO] 14:10:19:680 tp0/(4778:4778): a
+[INFO] 14:10:20:790 tp0/(4778:4778): b
+[INFO] 14:10:22:650 tp0/(4778:4778): c
+[INFO] 14:13:46:142 tp0/(5362:5362): Hola! Soy un log
+[INFO] 14:13:46:142 tp0/(5362:5362): Hola, soy un valor
+[INFO] 14:13:49:221 tp0/(5362:5362): a
+[INFO] 14:13:50:202 tp0/(5362:5362): b
+[INFO] 14:13:50:811 tp0/(5362:5362): c
+[INFO] 14:16:19:460 tp0/(5725:5725): Hola! Soy un log
+[INFO] 14:16:19:461 tp0/(5725:5725): Hola, soy un valor
+[INFO] 14:16:26:149 tp0/(5725:5725): a
+[INFO] 14:16:26:608 tp0/(5725:5725): b
+[INFO] 14:16:27:119 tp0/(5725:5725): c
+[INFO] 14:19:16:192 tp0/(6144:6144): Hola! Soy un log
+[INFO] 14:19:16:192 tp0/(6144:6144): Hola, soy un valor
+[INFO] 14:19:17:510 tp0/(6144:6144): a
+[INFO] 14:19:17:960 tp0/(6144:6144): b
+[INFO] 14:19:18:449 tp0/(6144:6144): c
+[INFO] 14:21:18:329 tp0/(6459:6459): Hola! Soy un log
+[INFO] 14:21:18:329 tp0/(6459:6459): Hola, soy un valor
+[INFO] 14:21:20:157 tp0/(6459:6459): a
+[INFO] 14:21:20:557 tp0/(6459:6459): b
+[INFO] 14:21:21:237 tp0/(6459:6459): c
+[INFO] 14:23:44:774 tp0/(6813:6813): Hola! Soy un log
+[INFO] 14:23:44:774 tp0/(6813:6813): Hola, soy un valor
+[INFO] 14:26:52:975 tp0/(7257:7257): Hola! Soy un log
+[INFO] 14:26:52:975 tp0/(7257:7257): Hola, soy un valor
+[INFO] 14:26:54:473 tp0/(7257:7257): a
+[INFO] 14:26:54:853 tp0/(7257:7257): b
+[INFO] 14:26:55:253 tp0/(7257:7257): c
+[INFO] 14:28:17:430 tp0/(7474:7474): Hola! Soy un log
+[INFO] 14:28:17:430 tp0/(7474:7474): Hola, soy un valor
+[INFO] 14:28:21:258 tp0/(7474:7474): b
+[INFO] 14:30:36:477 tp0/(7795:7795): Hola! Soy un log
+[INFO] 14:30:36:477 tp0/(7795:7795): Hola, soy un valor
+[INFO] 14:30:37:835 tp0/(7795:7795): a
+[INFO] 14:30:38:155 tp0/(7795:7795): b
+[INFO] 14:30:38:485 tp0/(7795:7795): c
+[INFO] 14:30:51:767 tp0/(7828:7828): Hola! Soy un log
+[INFO] 14:30:51:767 tp0/(7828:7828): Hola, soy un valor
+[INFO] 14:31:00:407 tp0/(7845:7845): Hola! Soy un log
+[INFO] 14:31:00:407 tp0/(7845:7845): Hola, soy un valor
+[INFO] 14:31:03:785 tp0/(7845:7845): a
+[INFO] 14:31:04:275 tp0/(7845:7845): b
+[INFO] 14:31:04:745 tp0/(7845:7845): c
+[INFO] 14:38:04:181 tp0/(8493:8493): Hola! Soy un log
+[INFO] 14:38:22:747 tp0/(8493:8493): Hola, soy un valor
+[INFO] 14:39:20:994 tp0/(8898:8898): Hola! Soy un log
+[INFO] 14:39:26:261 tp0/(8898:8898): Hola, soy un valor
+[INFO] 14:41:22:082 tp0/(9193:9193): Hola! Soy un log
+[INFO] 14:41:22:082 tp0/(9193:9193): Hola, soy un valor
+[INFO] 14:41:57:435 tp0/(9288:9288): Hola! Soy un log
+[INFO] 14:42:08:298 tp0/(9288:9288): Hola, soy un valor
+[INFO] 14:42:38:597 tp0/(9418:9418): Hola! Soy un log
+[INFO] 14:42:43:936 tp0/(9418:9418): Hola, soy un valor
+[INFO] 14:43:01:517 tp0/(9512:9512): Hola! Soy un log
+[INFO] 14:43:05:826 tp0/(9512:9512): Hola, soy un valor
+[INFO] 17:39:13:571 tp0/(12600:12600): Hola! Soy un log
+[INFO] 17:39:22:071 tp0/(12600:12600): Hola, soy un valor
+[INFO] 17:42:25:106 tp0/(13711:13711): Hola! Soy un log
+[INFO] 17:42:25:106 tp0/(13711:13711): Hola, soy un valor
+[INFO] 17:43:48:137 tp0/(13853:13853): Hola! Soy un log
+[INFO] 17:44:09:380 tp0/(13853:13853): Hola, soy un valor
